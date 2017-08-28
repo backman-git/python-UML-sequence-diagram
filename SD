@@ -1,0 +1,4 @@
+main ->motor:setMotorName
+main ->human:setHumanName
+main ->motor:driveBy
+motor ->human:say
