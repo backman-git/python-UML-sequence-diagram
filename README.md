@@ -47,5 +47,6 @@ main ->human:setHumanName
 main ->motor:driveBy
 motor ->human:say
 
+![image] https://github.com/backman-git/python-UML-sequence-diagram/blob/master/result.png
 
 
