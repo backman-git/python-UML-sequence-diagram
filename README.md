@@ -10,7 +10,7 @@ plantUML SD schema: http://plantuml.com/sequence-diagram
 
 Example Demo code :
 
-
+```
 class Motor :
 	def setMotorName(self,name):
 		self.motorName = name
@@ -38,7 +38,7 @@ if __name__ =='__main__':
 	human=Human()
 	human.setHumanName("Backman")
 	motor.driveBy(human)
-
+```
 
 The tool output :
 
